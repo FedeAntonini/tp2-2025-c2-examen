@@ -6,7 +6,7 @@
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
-    "mongodb": "^6.16.0",
+    "mongodb": "^6.20.0",
     "morgan": "^1.10.0"
   },
   "name": "tp2-template-api",
